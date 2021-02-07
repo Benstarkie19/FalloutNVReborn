@@ -2,6 +2,8 @@
 
 A Extensive Fallout New Vegas Modding Guide (2020)
 
+https://falloutnvreborn.tech/
+
 
 ## Overview
 
@@ -21,6 +23,6 @@ Any suggestions are appreciated, But please put in the subject "Fallout Modding 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
