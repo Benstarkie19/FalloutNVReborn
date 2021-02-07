@@ -1,88 +1,26 @@
-# Project Title
+# FalloutNVReborn
 
-One Paragraph of project description goes heree
+A Extensive Fallout New Vegas Modding Guide (2020)
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Overview
 
-### Prerequisites
+FalloutNVReborn is a guide to set up New Vegas with modern computers for a stable, smooth, and, enjoyable experience.
+This modlist is meant to be a basis to start your own modding voyage which includes all the latest fixes, tools and modding standards.
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
+This modlist has a beginner level of difficulty, allowing new modders to start there journey no matter your modding experience. Throughout the guide, there will be essential instructions which will be required to follow full.
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
+## Contact
 
-Say what the step will be
+Any suggestions are appreciated, But please put in the subject "Fallout Modding suggestions"
 
-```
-Give the example
-```
+(Link Here)
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
