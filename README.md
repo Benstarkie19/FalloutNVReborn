@@ -16,13 +16,11 @@ This modlist has a beginner level of difficulty, allowing new modders to start t
 
 ## Contact
 
-Any suggestions are appreciated, But please put in the subject "Fallout Modding suggestions"
 
+Any suggestions are appreciated, But please put in the subject "Fallout Modding suggestions"
+# Initial Setup #
 (Link Here)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
